@@ -24,9 +24,9 @@
 - Protein target: 150–170g/day (new recommendation)
 
 ## Alcohol
+- **Quit drinking: March 24, 2026** (sober since then)
 - History: Heavy pandemic drinking, yo-yo pattern
 - Binge episodes: ~5 drinks in a day
-- Currently 1 week sober (as of 2026-03-30)
 - Relationship: loves alcohol emotionally/sensorially, but recognizes health damage
 - Goal: sustained recovery, body repair, daily motivation support
 - Recommendation: abstain indefinitely given binge history
@@ -45,11 +45,11 @@
 | Magnesium Glycinate | 400mg | |
 | Organic Milk Thistle | 1500mg | Liver support post-alcohol |
 | Creatine | 3–5g | |
-| **Collagen Peptides** | **10–15g/day** | **NEW — joint support, pair with 500mg Vit C** |
-| **Electrolytes** | **Pre-workout** | **NEW — sodium/magnesium/potassium, especially fasted AM** |
-| **Whey Protein Isolate** | **20–30g per serving** | **NEW — hit 150–170g protein/day total** |
-| **Vitamin C** | **500–1000mg** | **NEW — collagen synthesis + general recovery** |
-| **B-Complex** | **Daily** | **NEW — B-vitamin depletion from alcohol history** |
+| Collagen Peptides | 10–15g/day | Joint support, pair with 500mg Vit C |
+| Electrolytes | Pre-workout | Sodium/magnesium/potassium, especially fasted AM |
+| Whey Protein Isolate | 20–30g per serving | Hit 150–170g protein/day total |
+| Vitamin C | 500–1000mg | Collagen synthesis + general recovery |
+| B-Complex | Daily | B-vitamin depletion from alcohol history |
 
 ## Events
 - No current target event
@@ -58,5 +58,5 @@
 ## Notes
 - High cardiovascular base from prior Ironman training
 - Joint stress is a concern at current weight
-- Daily 5AM Slack motivation check-in enabled
+- Daily 5AM Slack motivation check-in enabled (Nutrition Coach)
 - Cronometer webhook integration pending setup
