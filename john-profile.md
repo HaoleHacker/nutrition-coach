@@ -21,6 +21,7 @@
 - Occasional off-diet items accepted (bread, cookies, etc.)
 - Eating window: ~7AM to 7PM
 - No known dietary restrictions
+- Protein target: 150–170g/day (new recommendation)
 
 ## Alcohol
 - History: Heavy pandemic drinking, yo-yo pattern
@@ -28,21 +29,27 @@
 - Currently 1 week sober (as of 2026-03-30)
 - Relationship: loves alcohol emotionally/sensorially, but recognizes health damage
 - Goal: sustained recovery, body repair, daily motivation support
+- Recommendation: abstain indefinitely given binge history
 
 ## Supplements
-| Supplement | Dose |
-|---|---|
-| Nordic Naturals Ultimate Omega | 1280mg omega-3s (650 EPA / 450 DHA) |
-| Organic Turmeric | 1950mg |
-| Vitamin D3 | 5000 IU |
-| Vitamin K2 MK-7 | 100mcg |
-| Zinc Picolinate | 30mg |
-| Rosuvastatin | 20mg |
-| CoQ10 | 200mg |
-| Magnesium L-Threonate | 500mg |
-| Magnesium Glycinate | 400mg |
-| Organic Milk Thistle | 1500mg |
-| Creatine | 3–5g |
+| Supplement | Dose | Notes |
+|---|---|---|
+| Nordic Naturals Ultimate Omega | 1280mg omega-3s (650 EPA / 450 DHA) | Consider upping to 3g total EPA+DHA |
+| Organic Turmeric | 1950mg | Needs piperine/lipid form for absorption |
+| Vitamin D3 | 5000 IU | |
+| Vitamin K2 MK-7 | 100mcg | |
+| Zinc Picolinate | 30mg | Consider adding 1-2mg copper long-term |
+| Rosuvastatin | 20mg | |
+| CoQ10 | 200mg | Good pairing with statin |
+| Magnesium L-Threonate | 500mg | |
+| Magnesium Glycinate | 400mg | |
+| Organic Milk Thistle | 1500mg | Liver support post-alcohol |
+| Creatine | 3–5g | |
+| **Collagen Peptides** | **10–15g/day** | **NEW — joint support, pair with 500mg Vit C** |
+| **Electrolytes** | **Pre-workout** | **NEW — sodium/magnesium/potassium, especially fasted AM** |
+| **Whey Protein Isolate** | **20–30g per serving** | **NEW — hit 150–170g protein/day total** |
+| **Vitamin C** | **500–1000mg** | **NEW — collagen synthesis + general recovery** |
+| **B-Complex** | **Daily** | **NEW — B-vitamin depletion from alcohol history** |
 
 ## Events
 - No current target event
@@ -51,4 +58,5 @@
 ## Notes
 - High cardiovascular base from prior Ironman training
 - Joint stress is a concern at current weight
-- Interested in daily Slack check-ins for motivation
+- Daily 5AM Slack motivation check-in enabled
+- Cronometer webhook integration pending setup
